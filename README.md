@@ -50,7 +50,6 @@ Anyone who doesn't fit is flagged INCORRECT so HR can review their title or leve
 | File | Contents |
 |---|---|
 | `Employee-Performance_mapping.sql` | All queries, view, stored procedure, stored function and index |
-| `Air-Cargo_Analysis.sql` | Queries for a separate project: see [SQL-Air-Cargo-Analysis](https://github.com/Piyush-00/SQL-Air-Cargo-Analysis) |
 
 The source data is not included in this repo.
 
